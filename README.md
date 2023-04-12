@@ -57,12 +57,13 @@ I find myself enjoying the work I do now as a backend developer, although I've a
 <p align="center">
 <img width="460px" height="300" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
 </p>
-<br clear="left"/>
-In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
+
+In addition, to virtual reality, I have recently been fascinated by the potential of artificial intelligence to revolutionize the way we interact with technology. Chatbots, in particular, have been an area of great interest to me, with Chat GPT being a prime example of the exciting advancements being made in this field. Similarly, image rendering AI like DALL-E have opened up new possibilities for creative expression and visual storytelling. I'm thrilled to be living in an era where these incredible technologies are becoming more accessible and look forward to seeing where they will take us in the future.
 
 <img align="left" alt="PC" width="280px" style="padding-right:10px;" src="https://cdna.pcpartpicker.com/static/forever/images/userbuild/284120.ef259283c2e58f2918219edfe9b6d299.jpg" />
 <br clear="left"/>
-As I became more interested in technology I couldn’t let go of playing video games. Along the way to picking my career I became more interested in computers and have found it interesting and fun to build my own rigs. I have built two pc’s so far, one that was a budget build and another one that I saved up my money for in order to get better performance than what I was using before. 
+
+Video games have always been a beloved pastime of mine. Not only do they provide a fun and engaging way to spend my free time, but they also allow me to connect with others and build lasting friendships. I find that playing video games with friends is an excellent stress-reliever, as we can work together to achieve common goals or simply enjoy each other's company in a virtual world. It's amazing to me how video games have evolved over the years, from simple 2D platformers to complex, immersive experiences that can transport us to entirely new worlds. I look forward to exploring these worlds and making new friends through gaming for many years to come.
 
 ---
 
