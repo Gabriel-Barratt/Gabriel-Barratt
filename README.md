@@ -52,9 +52,11 @@ and game UX/UI design! I was born and raised here in Colorado and was able to pu
 
 ### 💡 Interest
 
-I used to volunteer a lot at my middle school and elementary school. I was a teacher's assistant and I found it pleasant teaching others. I mainly worked with students who were in the process of learning English and would grade their work or help translate writings. I still keep in contact with some of the teachers and it has been fulfilling even going back and seeing familiar faces.
+I find myself enjoying the work I do now as a backend developer, although I've always had a passion for frontend development and creating visually appealing interfaces that users can interact with. In addition to the creative side of code, I also have a love for virtual reality even if I know little about it. The prospect of being able to create immersive experiences through the combination of code and cutting-edge technology is truly exciting to me. As the world becomes increasingly digitized, I believe that virtual reality will play an even more significant role in the future of frontend development. I am eager to continue exploring this exciting field and pushing the boundaries of what's possible in the virtual world.
 
-<img align="left" alt="mountains" width="360px" style="padding-right:10px;" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
+<p align="center">
+<img width="460px" height="300" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
+</p>
 <br clear="left"/>
 In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
 
