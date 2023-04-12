@@ -68,11 +68,12 @@ As I became more interested in technology I couldn’t let go of playing video g
 
 ### 🚀 Projects
 
-An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
+One project that I am currently working on is event promotion software for the company Event Vesta. I was assigned to this company along with a few other individuals for our senior capstone. Development will end April 28th.
 
-Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. 
+Using a messaging platform called Discord I helped to develop a bot which that extended off of the application's capabilities. Working as as a team of three, our bot integrated our very own interactive gacha game and was able to keep track of the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel after the bot is downloaded and added to your server. 
 
-Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
+Another project I have worked on recently with a partner was an autonomous grocery robot. We worked as a team in Python to develop a robot that went around a grocery store to pick up objects based on what the user wanted. We programmed the robot to map out its location, drive and pick up objects autonomously, and detect color
+differentiation for the specified objects.
 
 ---
 
