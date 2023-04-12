@@ -80,15 +80,15 @@ Another project that I have worked on this year was with a partner for object or
 
 <a href="https://www.linkedin.com/in/gabriel-barratt">LinkedIn</a>
 
-This is a professional site that contains my resume, classes, and a better presentation of who I am as a person. 
+This website serves as a professional platform for showcasing my resume, coursework, and providing a more comprehensive overview of my personal and professional qualities.
 
 <a href="https://app.joinhandshake.com/stu/users/18788785">HandShake</a>
 
-For those who are looking for more in depth-information about me while I have been at the University and is a good way to reach me. 
+If you're interested in learning more about my experiences and achievements during my time at university, this website is an excellent resource. Additionally, it's a convenient way to get in touch with me.
 
 <a href="https://twitter.com/GabeBarratt">Twitter</a>
 
-A fun zone where I will be posting things relating to the computer science industry and anything that I find cool in technology. 
+This is a dynamic space where I'll be sharing my thoughts on the latest developments in the computer science industry, as well as any fascinating technological discoveries that catch my attention. It's a space for me to explore and share my passion for all things tech-related in a fun and engaging way.
 
 ---
 
