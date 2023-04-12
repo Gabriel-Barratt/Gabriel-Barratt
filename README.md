@@ -46,7 +46,7 @@ and game UX/UI design! I was born and raised here in Colorado and was able to pu
 
 ---
 
-### 📘 <a href="[https://drive.google.com/file/d/14LcrJ3AD-R8ViokjhM0hovDvSDvT0zTC/view?usp=sharing](https://drive.google.com/file/d/14zuWxAs7o3V0Uiv45DrCdxDBWrOYNDvL/view?usp=share_link)">Resume</a>
+### 📘 <a href="https://drive.google.com/file/d/14zuWxAs7o3V0Uiv45DrCdxDBWrOYNDvL/view?usp=share_link">Resume</a>
 
 ---
 
