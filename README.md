@@ -55,16 +55,20 @@ and game UX/UI design! I was born and raised here in Colorado and was able to pu
 I find myself enjoying the work I do now as a backend developer, although I've always had a passion for frontend development and creating visually appealing interfaces that users can interact with. In addition to the creative side of code, I also have a love for virtual reality even if I know little about it. The prospect of being able to create immersive experiences through the combination of code and cutting-edge technology is truly exciting to me. As the world becomes increasingly digitized, I believe that virtual reality will play an even more significant role in the future of frontend development. I am eager to continue exploring this exciting field and pushing the boundaries of what's possible in the virtual world.
 
 <p align="center">
-<img width="460px" height="300" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
+<img width="460px" height="300" src="https://www.roadtovr.com/wp-content/uploads/2017/12/Electronauts-1.jpg" />
 </p>
 
 In addition, to virtual reality, I have recently been fascinated by the potential of artificial intelligence to revolutionize the way we interact with technology. Chatbots, in particular, have been an area of great interest to me, with Chat GPT being a prime example of the exciting advancements being made in this field. Similarly, image rendering AI like DALL-E have opened up new possibilities for creative expression and visual storytelling. I'm thrilled to be living in an era where these incredible technologies are becoming more accessible and look forward to seeing where they will take us in the future.
 
-<img align="left" alt="PC" width="280px" style="padding-right:10px;" src="https://cdna.pcpartpicker.com/static/forever/images/userbuild/284120.ef259283c2e58f2918219edfe9b6d299.jpg" />
-<br clear="left"/>
+<p align="center">
+<img width="460px" height="300" src="https://investingnews.com/media-library/image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai.jpg?id=32871272&width=1200&height=800&quality=85&coordinates=0%2C0%2C0%2C0" />
+</p>
 
 Video games have always been a beloved pastime of mine. Not only do they provide a fun and engaging way to spend my free time, but they also allow me to connect with others and build lasting friendships. I find that playing video games with friends is an excellent stress-reliever, as we can work together to achieve common goals or simply enjoy each other's company in a virtual world. It's amazing to me how video games have evolved over the years, from simple 2D platformers to complex, immersive experiences that can transport us to entirely new worlds. I look forward to exploring these worlds and making new friends through gaming for many years to come.
 
+<p align="center">
+<img width="460px" height="300" src="https://www.verdict.co.uk/wp-content/uploads/2018/02/smash-bros-Copy.jpg" />
+</p>
 ---
 
 ### 🚀 Projects
