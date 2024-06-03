@@ -73,7 +73,7 @@ Video games have always been a beloved pastime of mine. Not only do they provide
 
 ### 🚀 Projects
 
-One project that I am currently working on is event promotion software for the company Event Vesta. I was assigned to this company along with a few other individuals for our senior capstone. Development will end April 28th.
+Event promotion software for the company Event Vesta. I was assigned to this company along with a few other individuals for our senior capstone from fall of 2022 to spring of 2023. Development ended as of April 28th 2023.
 
 Using a messaging platform called Discord I helped to develop a bot which that extended off of the application's capabilities. Working as as a team of three, our bot integrated our very own interactive gacha game and was able to keep track of the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel after the bot is downloaded and added to your server. 
 
